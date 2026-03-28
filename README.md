@@ -48,5 +48,5 @@ and created a Stay Safe Online prevention checklist.
 ## Links
 
 - Google Form Quiz: [Click Here](https://forms.gle/P7Q3dWN2mDYAqq8A6)
-- LinkedIn: [Click Here](PASTE LINKEDIN URL HERE)
+- LinkedIn: [Click Here](www.linkedin.com/in/advita-kale2410)
 - Kaggle: [Click Here](https://www.kaggle.com/advitakale)
